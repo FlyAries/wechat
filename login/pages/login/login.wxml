@@ -1,0 +1,28 @@
+<view class="container">
+
+  <view class='vie_img item'>
+    <image src='/images/logo.png'></image>
+  </view>
+
+  <view class='item'>
+    <view class='username'>用户名</view>
+    <view class='login_lo'><input bindinput="usernameInput" /></view>  
+  </view>
+
+  <view class='item'>
+    <view class='username'>密码</view>
+    <view class='login_lo psw'><input bindinput="passwordInput" /><text class='info'>忘记密码</text></view>  
+  </view>
+
+  <view class='item sub'>
+    <button  type=""  bindtap="submit">  登录 </button>
+  </view>
+  
+  <view class='zc'>
+    <text>没有账户？注册</text>
+    <view>
+      <image src='/images/wechat.png'></image>
+    </view>
+  </view>
+
+</view>

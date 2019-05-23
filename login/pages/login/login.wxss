@@ -1,0 +1,40 @@
+.vie_img image{
+  width: 500rpx;
+  height: 120rpx;
+  display: block;
+  margin: 20px auto;
+}
+.item{
+  width: 94%;
+  padding: 0 3%;
+}
+.login_lo{
+  display: inline-block;
+  border-bottom: 1px solid #ddd;  
+  padding-right: 10%;
+  margin-top: 20px;
+}
+.username{
+  display: inline-block;
+  width: 20%;
+}
+.psw{
+  position: relative;
+}
+.info{
+  position: absolute;
+  top: 0;
+  right: 3px;
+}
+.sub{
+  margin-top: 20px;
+}
+.zc{
+  text-align: center;
+  margin-top: 20px;
+}
+.zc image{
+  width: 60px;
+  height: 60px;
+  margin-top: 20px;
+}

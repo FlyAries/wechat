@@ -1,0 +1,4 @@
+<view class="container">
+  <image src='/images/uc.jpg'></image>
+  <view class='name'>{{username}}</view>
+</view>
